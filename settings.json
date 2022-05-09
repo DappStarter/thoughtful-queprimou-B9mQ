@@ -1,0 +1,8 @@
+{
+    "name": "ID1",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true
+    }
+}
